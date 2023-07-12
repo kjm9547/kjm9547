@@ -1,10 +1,10 @@
 ### Hi there 👋
-
+<img src="https://img.shields.io/badge/뱃지레이블-배경색?style=flat-square&logo=react&logoColor=#61DAFB"/>
 <!--
 **kjm9547/kjm9547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<img src="https://img.shields.io/badge/뱃지레이블-배경색?style=flat-square&logo=react&logoColor=#61DAFB"/>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

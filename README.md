@@ -1,7 +1,11 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/react-배경색?style=flat-square&logo=react&logoColor=#61DAFB"/>
-<!--
+<img src="https://img.shields.io/badge/react-black?style=flat-square&logo=react&logoColor=#61DAFB"/>
+
+
+
 **kjm9547/kjm9547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--
+
 
 Here are some ideas to get you started:
 

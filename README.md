@@ -1,5 +1,6 @@
 ### Hi there 👋
 🐵 https://earthwarmman.tistory.com/
+<img src="https://img.shields.io/badge/tistory?style=flat-square&logo=tistory&logoColor=#61DAFB"/>
 
 <img src="https://img.shields.io/badge/react native-black?style=flat-square&logo=react&logoColor=#61DAFB"/>
 

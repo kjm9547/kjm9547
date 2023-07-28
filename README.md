@@ -1,5 +1,5 @@
 
-### 🐵 blog
+### 🐵 SNS
 <a href="https://earthwarmman.tistory.com/">
 <img src="https://img.shields.io/badge/tistory-black?style=flat-square&logo=tistory&logoColor=#000000"/>
 </a>

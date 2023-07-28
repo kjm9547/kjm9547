@@ -7,10 +7,25 @@
 <img src="https://img.shields.io/badge/instagram-black?style=flat-square&logo=instagram&logoColor=#000000"/>
 </a>
 <hr></hr>
+<h2>Stack</h2>
 <img src="https://img.shields.io/badge/react native-black?style=flat-square&logo=react&logoColor=#61DAFB"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjm9547&show_icons=true&theme=radical)
 
+<hr></hr>
+<h3>To Do List</h3>
+<ol>
+  <li>
+  Commit
+</li>
+<li>
+  Posting
+</li>
+<li>
+  Instagram
+</li>
+  
+</ol>
 <!--
 
 Here are some ideas to get you started:

@@ -10,8 +10,7 @@
 <h2>Stack</h2>
 <img src="https://img.shields.io/badge/react native-black?style=flat-square&logo=react&logoColor=#61DAFB"/>
 <img src="https://img.shields.io/badge/react-black?style=flat-square&logo=react&logoColor=#61DAFB"/>
-
-
+<img src="https://img.shields.io/badge/swift-black?style=flat-square&logo=swift&logoColor=#61DAFB"/>
 <hr></hr>
 <h3>To Do List</h3>
 <ol>

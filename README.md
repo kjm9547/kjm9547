@@ -8,9 +8,21 @@
 </a>
 <hr></hr>
 <h2>Stack</h2>
+<div>
 <img src="https://img.shields.io/badge/react native-black?style=flat-square&logo=react&logoColor=#61DAFB"/>
 <img src="https://img.shields.io/badge/react-black?style=flat-square&logo=react&logoColor=#61DAFB"/>
+<img src="https://img.shields.io/badge/vue-black?style=flat-square&logo=vue.js&logoColor=#61DAFB"/>
+  <br>
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/html-black?style=flat-square&logo=html5&logoColor=#61DAFB"/>
+<img src="https://img.shields.io/badge/css-black?style=flat-square&logo=css3&logoColor=#61DAFB"/>
+<img src="https://img.shields.io/badge/js-black?style=flat-square&logo=javascript&logoColor=#61DAFB"/>
+  
 <img src="https://img.shields.io/badge/swift-black?style=flat-square&logo=swift&logoColor=#61DAFB"/>
+</div>
+<img src="https://img.shields.io/badge/php-black?style=flat-square&logo=php&logoColor=#61DAFB"/>
 <hr></hr>
 
 <!--

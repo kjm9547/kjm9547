@@ -3,7 +3,7 @@
 <a href="https://earthwarmman.tistory.com/">
 <img src="https://img.shields.io/badge/tistory-black?style=flat-square&logo=tistory&logoColor=#000000"/>
 </a>
-<a href="https://instagram.com/Earthwarmman">
+<a href="https://www.instagram.com/travel_man1020?igsh=Mms1ZmhzMXRlbGll&utm_source=qr">
 <img src="https://img.shields.io/badge/instagram-black?style=flat-square&logo=instagram&logoColor=#000000"/>
 </a>
 <hr></hr>
